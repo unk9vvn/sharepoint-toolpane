@@ -15,7 +15,9 @@ Public PoC of the zero-day exploit for CVE-2025-53770 and CVE-2025-53771
 python3 sharepoint-toolpane.py 192.168.154.152 calc
 ```
 <br>
+
 ![Exploit-PoC](https://raw.githubusercontent.com/unk9vvn/sharepoint-toolpane/refs/heads/main/poc.png)
+
 <br>
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://unk9vvn.com)
